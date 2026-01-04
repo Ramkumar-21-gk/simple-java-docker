@@ -4,7 +4,9 @@ public class Main {
     public static void main(String[] args) {
         Date currentDate = new Date();
         System.out.println("Hello, Docker! Current date: " + currentDate);
-        System.out.println("Hello my name is ram");
-        System.out.println("Thankyou so much");
+        System.out.println("hey");
+        System.out.println("my name is:");
+        System.out.println("RamKumar v1");
+            
     }
 }
